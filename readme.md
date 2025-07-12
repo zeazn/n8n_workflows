@@ -1,6 +1,6 @@
 # My N8n Workflows
 
-A collection of N8n workflows I've built to automate various tasks. These are real workflows I use personally, shared here in case they're useful to others.
+A collection of N8n workflows I've built to automate various tasks. These are real workflows I use personally, shared here in case they're useful to others. These workflows have been created with assisstance from various generative AI tools as I both test and learn to build workflows for my professional and personal projects.
 
 ## 🚀 What's Here
 

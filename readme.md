@@ -9,6 +9,7 @@ Personal automation workflows for:
 - **File Management** - Automated file sorting and backups
 - **Data Integration** - Connecting different apps and services
 - **Notifications** - Automated alerts and messaging
+- **WIP** - Works in progress
 
 ## 🛠️ How to Use
 
